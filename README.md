@@ -3,7 +3,7 @@
 - 👀 I’m interested in Creating the New Applications <br>
 - 🌱 I’m currently Working as a Full Stack Developer <br>
 - 📫 How to reach me via <br>
-      - Portfolio - https://portfolio-poojayu.vercel.app/
+      - Portfolio - https://portfolio-poojayu.vercel.app/ <br>
       - LinkedIn - www.linkedin.com/in/pooja-yu-9a96041a6 <br>
       - MAIL ID  - Pooja2000yu@gmail.com <br>
 -    Fun fact - I love Travelling<br>
